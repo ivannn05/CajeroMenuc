@@ -9,7 +9,7 @@ namespace EjercicioPruebaMenu.Controladores
     class Program
     {
        /// <summary>
-       /// Metodo de entrada d3e la aplicacion
+       /// Metodo de entrada de la aplicacion
        /// 250923 - ilp
        /// </summary>
        /// <param name="args"></param>
